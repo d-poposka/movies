@@ -1,0 +1,62 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Movie 1",
+        "year": 2022,
+        "director": "Director 1",
+        "genres": "Action, Adventure, Sci-Fi",
+        "plot": "Lorem ipsum dolor sit amet, consectetur adipiscing...",
+        "cast": [
+          { "name": "Brad Pitt", "role": "Lead Actor" },
+          { "name": "Actor 2", "role": "Supporting Actor" }
+        ],
+        "oscars": {
+          "total": 2,
+          "details": [
+            { "category": "Best Actor", "count": 1 },
+            { "category": "Best Director", "count": 1 }
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "title": "Movie 2",
+        "year": 2020,
+        "director": "Director 2",
+        "genres": "Drama, Romance",
+        "plot": "Lorem ipsum dolor sit amet, consectetur adipiscing...",
+        "cast": [
+          { "name": "Actor 3", "role": "Lead Actor" },
+          { "name": "Actor 4", "role": "Supporting Actor" }
+        ],
+        "oscars": {
+          "total": 3,
+          "details": [
+            { "category": "Best Picture", "count": 1 },
+            { "category": "Best Actress", "count": 1 },
+            { "category": "Best Director", "count": 1 }
+          ]
+        }
+      },
+      {
+        "id": 3,
+        "title": "Movie 3",
+        "year": 2019,
+        "director": "Director 3",
+        "genres": "Comedy",
+        "plot": "Lorem ipsum dolor sit amet, consectetur adipiscing...",
+        "cast": [
+          { "name": "Brad Pitt", "role": "Lead Actor" },
+          { "name": "Actor 5", "role": "Supporting Actor" }
+        ],
+        "oscars": {
+          "total": 1,
+          "details": [
+            { "category": "Best Supporting Actor", "count": 1 }
+          ]
+        }
+      }
+    ]
+  }
+  
